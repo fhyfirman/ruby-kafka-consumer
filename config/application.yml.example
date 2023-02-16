@@ -1,0 +1,2 @@
+kafka_host: "kafka-host"
+kafka_topic: "kafka-topic"
